@@ -1,5 +1,5 @@
  👋 Hi, I’m @moiam
-- 🌱 I’m currently learning frontend development, and in my free time physics and chess. 
+- 🌱 I’m currently learning frontend development, and in my free time I study physics and chess. 
 - 💞️ I’m looking to collaborate on open source 
 
 
