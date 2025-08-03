@@ -8,4 +8,9 @@ moiam/moiam is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Snake](https://moiam.github.io/snk/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://moiam.github.io/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://moiam.github.io/snk/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://moiam.github.io/snk/github-contribution-grid-snake.svg">
+</picture>
+
