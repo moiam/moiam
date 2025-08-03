@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="GitHub Snake" src="https://moiam.github.io/snk/github-contribution-grid-snake.svg">
 </picture>
 
+## 📊 Stats
+
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoiam)
+![Stars](https://img.shields.io/github/stars/moiam?style=social)
