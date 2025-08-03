@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 ## 📊 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiam&hide_progress=true)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoiam)
 ![Stars](https://img.shields.io/github/stars/moiam?style=social)
 ![Forks](https://img.shields.io/github/forks/moiam/astro-minimal-template?style=social)
