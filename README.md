@@ -1,7 +1,9 @@
- 👋 Hi, I’m @moiam
-- 🌱 I’m currently learning frontend development, and in my free time I study physics and chess. 
-- 💞️ I’m looking to collaborate on open source 
+ <h1>👋 Hi, I’m Moi</h1>
 
+-  I’m currently working as a full stack developer, and in my free time I study physics and chess. 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moiam&label=Profile%20views&color=grey&style=flat" alt="moiam" /> </p>
 
 <!---
 moiam/moiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
