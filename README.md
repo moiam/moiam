@@ -2,7 +2,10 @@
 
 - I’m currently working as a full stack developer, and in my free time I study physics and chess.
 
-### 🛠 Tecnologías de uso diario
+<h2>
+  🛠 Tecnologías de uso diario 
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+</h2>  
 
 <img  src="./desk-coding.gif" alt="Desk coding animation" width="250" align="right" />
 
@@ -18,7 +21,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css&logoColor=38bdf8)&nbsp;
 
-### 💼 Tecnologías con dominio práctico
+<h2>
+  ### 💼 Tecnologías con dominio práctico
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+</h2>
+
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D)&nbsp;
@@ -36,3 +43,5 @@
  <!--  <img src="https://komarev.com/ghpvc/?username=moiam&label=Profile%20views&color=grey&style=flat" alt="moiam" /> -->
 ![Stars](https://img.shields.io/github/stars/moiam?style=social)  
 ![Forks](https://img.shields.io/github/forks/moiam/astro-minimal-template?style=social)
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ4MnE1c21idjZrY2xuZWQ0ZzYxbWI4Z2lqY3NmcGN1bWFxMXBwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkMV9TldsPd28/giphy.gif" width="200"/>
