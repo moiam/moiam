@@ -3,7 +3,7 @@
 - I’m currently working as a full stack developer, and in my free time I study physics and chess.
 
 <h2>
-  🛠 Tecnologías de uso diario 
+  🛠 My daily Tech Stack 
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>  
 
@@ -22,7 +22,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css&logoColor=38bdf8)&nbsp;
 
 <h2>
-  ### 💼 Tecnologías con dominio práctico
+   💼 Technologies I have experience with
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
